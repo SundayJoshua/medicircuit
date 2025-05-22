@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.js": "/medicircuit/static/js/main.12c2a797.js",
+    "static/media/bg-home.png": "/medicircuit/static/media/bg-home.afacfb45e0555c63dda4.png",
+    "static/media/illustration-reset.jpg": "/medicircuit/static/media/illustration-reset.c5f36c0c2262b9ad6165.jpg",
+    "static/media/consulting.png": "/medicircuit/static/media/consulting.ced0c56b8ed7e44da644.png",
+    "static/media/team.png": "/medicircuit/static/media/team.6f7f4add3970fbcee4a6.png",
+    "static/media/about.jpg": "/medicircuit/static/media/about.2bb49abafd1b89dd83b0.jpg",
+    "static/media/icon.png": "/medicircuit/static/media/icon.7d3755e5781523deaccd.png",
+    "index.html": "/medicircuit/index.html",
+    "main.12c2a797.js.map": "/medicircuit/static/js/main.12c2a797.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.12c2a797.js"
+  ]
+}
