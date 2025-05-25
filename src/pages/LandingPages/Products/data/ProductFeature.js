@@ -23,9 +23,7 @@ import MKBox from "components/MKBox";
 import MKTypography from "components/MKTypography";
 //import MKInput from "components/MKInput";
 //import MKButton from "components/MKButton";
-
-// Images
-const macbook = "/assets/images/sales.jpg";
+import macbook from "assets/images/sales.jpg";
 
 function Newsletter() {
   return (

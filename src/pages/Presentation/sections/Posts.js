@@ -26,10 +26,10 @@ import TransparentBlogCard from "examples/Cards/BlogCards/TransparentBlogCard";
 import BackgroundBlogCard from "examples/Cards/BlogCards/BackgroundBlogCard";
 
 // Images
-const post1 = "assets/images/medicine.png";
-const post2 = "assets/images/device-array.png";
-const post3 = "assets/images/rnd.png";
-const post4 = "assets/images/consulting.png";
+import post1 from "assets/images/medicine.png";
+import post2 from "assets/images/device-array.png";
+import post3 from "assets/images/rnd.png";
+import post4 from "assets/images/consulting.png";
 
 function Places() {
   return (

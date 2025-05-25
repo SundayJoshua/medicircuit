@@ -38,7 +38,7 @@ import routes from "routes";
 import footerRoutes from "footer.routes";
 
 // Images
-const bgImage = "/assets/images/circles.png";
+import bgImage from "assets/images/circles.png";
 
 function Products() {
   return (

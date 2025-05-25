@@ -31,8 +31,8 @@ import MKTypography from "components/MKTypography";
 //import bgFront from "assets/images/portable-monitor.png";
 //import bgBack from "assets/images/patient-monitor.png";
 
-const bgFront = "/assets/images/bg-front.png";
-const bgBack = "/assets/images/bg-back.png";
+import bgFront from "assets/images/bg-front.png";
+import bgBack from "assets/images/bg-back.png";
 
 function Information() {
   return (

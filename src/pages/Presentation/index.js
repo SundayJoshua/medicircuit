@@ -33,6 +33,7 @@ import footerRoutes from "footer.routes";
 
 // Images
 import bgImage from "assets/images/bg-home.png";
+//import icon from "assets/images/icon.png";
 
 function Presentation() {
   return (
@@ -67,7 +68,7 @@ function Presentation() {
               px={{ xs: 6, lg: 12 }}
               mt={1}
             >
-              <img src="assets/images/icon.png" width="20%" alt="Brand" />
+              HealthTech Company
             </MKTypography>
           </Grid>
         </Container>

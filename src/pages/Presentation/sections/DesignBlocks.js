@@ -31,6 +31,7 @@ import MKTypography from "components/MKTypography";
 
 // Data
 import data from "pages/Presentation/sections/data/designBlocksData";
+import africa from "assets/images/afri-crystal.png";
 //import { Card } from "@mui/material";
 
 function DesignBlocks() {
@@ -46,7 +47,13 @@ function DesignBlocks() {
         </MKTypography>
       </Grid>
       <Grid item xs={12} lg={4} sx={{ mb: 2 }}>
-        <img src="assets/images/afri-crystal.png" alt="Brand" />
+        <MKBox
+          sx={{ borderRadius: "16px" }}
+          component="img"
+          src={africa}
+          alt="macbook"
+          width="100%"
+        />
       </Grid>
     </Grid>
   ));

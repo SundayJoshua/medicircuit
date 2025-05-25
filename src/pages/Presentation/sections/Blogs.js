@@ -4,33 +4,39 @@ import Container from "@mui/material/Container";
 import Box from "@mui/material/Box";
 import MKTypography from "components/MKTypography";
 import PropTypes from "prop-types";
+//images
+import post1 from "assets/images/innovate.png";
+import post2 from "assets/images/medicine.png";
+import post3 from "assets/images/people.png";
+import post4 from "assets/images/rnd.png";
+import post5 from "assets/images/impact.png";
 
 // Carousel item data
 const carouselItems = [
   {
     name: "Innovation",
     description: "Advancing healthcare through cutting-edge medical technology.",
-    image: "assets/images/innovate.png",
+    image: post1,
   },
   {
     name: "Access",
     description: "Expanding access to affordable medical devices.",
-    image: "assets/images/medicine.png",
+    image: post2,
   },
   {
     name: "Impact",
     description: "Transforming patient outcomes across Africa.",
-    image: "assets/images/people.png",
+    image: post3,
   },
   {
     name: "R&D",
     description: "Advancing healthcare through cutting-edge research and development.",
-    image: "assets/images/rnd.png",
+    image: post4,
   },
   {
     name: "360 Marketing",
     description: "Driving growth through smart strategy and bold marketing.",
-    image: "assets/images/impact.png",
+    image: post5,
   },
 ];
 
