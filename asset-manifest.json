@@ -1,16 +1,27 @@
 {
   "files": {
-    "main.js": "/medicircuit/static/js/main.12c2a797.js",
+    "main.js": "/medicircuit/static/js/main.8f260895.js",
     "static/media/bg-home.png": "/medicircuit/static/media/bg-home.afacfb45e0555c63dda4.png",
+    "static/media/sales.jpg": "/medicircuit/static/media/sales.813c8da299315c8012b5.jpg",
+    "static/media/rnd.png": "/medicircuit/static/media/rnd.18c1e4a4950a16e9305b.png",
+    "static/media/innovate.png": "/medicircuit/static/media/innovate.70eedbb4b40e52dac2e3.png",
+    "static/media/people.png": "/medicircuit/static/media/people.93215e2c3c31ac40dda5.png",
+    "static/media/impact.png": "/medicircuit/static/media/impact.085a79675ac2697f7b3c.png",
+    "static/media/bg-back.png": "/medicircuit/static/media/bg-back.cb8aef6d7aa66ab89b38.png",
+    "static/media/device-array.png": "/medicircuit/static/media/device-array.e53a4ad8d26b575fcd98.png",
+    "static/media/medicine.png": "/medicircuit/static/media/medicine.3b667dc65e43d5b362bb.png",
+    "static/media/circles.png": "/medicircuit/static/media/circles.8b845dd3ae81d1fb5db7.png",
+    "static/media/bg-front.png": "/medicircuit/static/media/bg-front.b611c4b06bcbdda7d17f.png",
     "static/media/illustration-reset.jpg": "/medicircuit/static/media/illustration-reset.c5f36c0c2262b9ad6165.jpg",
     "static/media/consulting.png": "/medicircuit/static/media/consulting.ced0c56b8ed7e44da644.png",
+    "static/media/afri-crystal.png": "/medicircuit/static/media/afri-crystal.c54d299f9f506f4e257d.png",
     "static/media/team.png": "/medicircuit/static/media/team.6f7f4add3970fbcee4a6.png",
     "static/media/about.jpg": "/medicircuit/static/media/about.2bb49abafd1b89dd83b0.jpg",
     "static/media/icon.png": "/medicircuit/static/media/icon.7d3755e5781523deaccd.png",
     "index.html": "/medicircuit/index.html",
-    "main.12c2a797.js.map": "/medicircuit/static/js/main.12c2a797.js.map"
+    "main.8f260895.js.map": "/medicircuit/static/js/main.8f260895.js.map"
   },
   "entrypoints": [
-    "static/js/main.12c2a797.js"
+    "static/js/main.8f260895.js"
   ]
 }
