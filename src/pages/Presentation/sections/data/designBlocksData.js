@@ -20,9 +20,9 @@ export default [
     title: "Pioneering Advancements in Healthcare Technology",
     description: (
       <span>
-        We believe that by applying the best that technology has to offer to the manufacturing
-        sector, including AI and robotics, we can develop much-needed medical devices that can be
-        distributed across Africa at scale and at an affordable cost.
+        MEDICIRCUIT is a healthcare company dedicated to improving the human condition in East
+        Africa by delivering value-driven, innovative and high quality medical products and
+        services.
       </span>
     ),
     items: [

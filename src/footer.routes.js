@@ -35,15 +35,15 @@ export default {
     {
       name: "company",
       items: [
-        { name: "products", route: "/pages/landing-pages/products", component: <Products /> },
-        { name: "about us", route: "/pages/landing-pages/about-us", component: <AboutUs /> },
-        { name: "contact us", route: "/pages/landing-pages/contact-us", component: <ContactUs /> },
+        { name: "products", route: "/products", component: <Products /> },
+        { name: "about us", route: "/about-us", component: <AboutUs /> },
+        { name: "contact us", route: "/contact-us", component: <ContactUs /> },
       ],
     },
     {
       name: "legal",
       items: [
-        { name: "licenses", route: "/pages/landing-pages/licenses", component: <Licenses /> },
+        { name: "licenses", route: "/licenses", component: <Licenses /> },
         { name: "privacy policy", route: "", component: <Privacy /> },
         { name: "terms & conditions", href: "" },
       ],

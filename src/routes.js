@@ -49,17 +49,17 @@ import Products from "pages/LandingPages/Products";
 const routes = [
   {
     name: "Products",
-    route: "/pages/landing-pages/products",
+    route: "/products",
     component: <Products />,
   },
   {
     name: "About Us",
-    route: "/pages/landing-pages/about-us",
+    route: "/about-us",
     component: <AboutUs />,
   },
   {
     name: "Contact Us",
-    route: "/pages/landing-pages/contact-us",
+    route: "/contact-us",
     component: <ContactUs />,
   },
 ];

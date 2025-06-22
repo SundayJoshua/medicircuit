@@ -33,6 +33,7 @@ import footerRoutes from "footer.routes";
 
 // Images
 import bgImage from "assets/images/bg-home.png";
+import MKButton from "components/MKButton";
 //import icon from "assets/images/icon.png";
 
 function Presentation() {
@@ -60,15 +61,20 @@ function Presentation() {
         }}
       >
         <Container>
-          <Grid container item xs={12} lg={7} justifyContent="center" mx="auto">
+          <Grid container item xs={12} lg={8} justifyContent="center" mx="auto">
             <MKTypography
-              variant="h1"
+              variant="h2"
               color="white"
               textAlign="center"
               px={{ xs: 6, lg: 12 }}
               mt={1}
             >
-              HealthTech Company
+              Welcome to MEDICIRCUIT
+            </MKTypography>
+            <MKTypography my={4}>
+              <MKButton href="/products" color="info">
+                Explore more
+              </MKButton>
             </MKTypography>
           </Grid>
         </Container>

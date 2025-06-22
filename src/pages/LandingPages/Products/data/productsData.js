@@ -9,7 +9,7 @@ const productsData = [
       },
       {
         name: "Calcitron capsule",
-        description: "A calcium supplement includind Vitamin D",
+        description: "A calcium supplement including Vitamin D",
       },
       {
         name: "Ferrobin capsules",

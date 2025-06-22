@@ -29,7 +29,7 @@ import BackgroundBlogCard from "examples/Cards/BlogCards/BackgroundBlogCard";
 import post1 from "assets/images/medicine.png";
 import post2 from "assets/images/device-array.png";
 import post3 from "assets/images/rnd.png";
-import post4 from "assets/images/consulting.png";
+import post4 from "assets/images/info.jpeg";
 
 function Places() {
   return (
@@ -48,7 +48,7 @@ function Places() {
               description="Marketing, trading, import/export of quality medicines, drugs, and medical consumables."
               action={{
                 type: "internal",
-                route: "/pages/blogs/author",
+                route: "/products",
                 color: "info",
                 label: "read more",
               }}
@@ -61,7 +61,7 @@ function Places() {
               description="Supplying and distributing advanced pharmaceutical machinery, medical equipment, lab instruments, and diagnostic tools."
               action={{
                 type: "internal",
-                route: "/pages/blogs/author",
+                route: "/products",
                 color: "info",
                 label: "read more",
               }}
@@ -74,7 +74,7 @@ function Places() {
               description="Engaging in cutting-edge R&D in pharmaceuticals, biotechnology, nanotechnology and medical diagnostics."
               action={{
                 type: "internal",
-                route: "/pages/blogs/author",
+                route: "/products",
                 color: "info",
                 label: "read more",
               }}
@@ -84,10 +84,10 @@ function Places() {
             <BackgroundBlogCard
               image={post4}
               title="HealthTech"
-              description="Providing health IT solutions, telemedicine, logistics, platforms, training and consultancy services."
+              description="Providing API Services that intergrate devices, Hospital Information Systems and Electronic Health Records. Allowing real time monitoring and seamless data sharing"
               action={{
                 type: "internal",
-                route: "/pages/blogs/author",
+                route: "/products",
                 label: "read more",
               }}
             />

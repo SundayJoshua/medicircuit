@@ -15,27 +15,22 @@ import post5 from "assets/images/impact.png";
 const carouselItems = [
   {
     name: "Innovation",
-    description: "Advancing healthcare through cutting-edge medical technology.",
     image: post1,
   },
   {
     name: "Access",
-    description: "Expanding access to affordable medical devices.",
     image: post2,
   },
   {
     name: "Impact",
-    description: "Transforming patient outcomes across Africa.",
     image: post3,
   },
   {
     name: "R&D",
-    description: "Advancing healthcare through cutting-edge research and development.",
     image: post4,
   },
   {
-    name: "360 Marketing",
-    description: "Driving growth through smart strategy and bold marketing.",
+    name: "Bold Marketing",
     image: post5,
   },
 ];
@@ -65,8 +60,8 @@ function CarouselCard({ item }) {
       }}
     >
       <MKTypography
-        variant="h4"
-        color="info"
+        variant="h3"
+        color="light"
         mb={1}
         sx={{
           height: 40,

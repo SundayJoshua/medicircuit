@@ -44,6 +44,9 @@ function Information() {
               <MKTypography variant="h2" fontWeight="bold" mb={1}>
                 Our Solutions
               </MKTypography>
+              <MKTypography variant="text" mt="{1}">
+                API Powered Cloud Infrastructure and an IoT Based Patient Monitoring System
+              </MKTypography>
             </MKBox>
           </Grid>
           <Grid item xs={12} lg={4} sx={{ mx: "auto" }}>
@@ -67,7 +70,6 @@ function Information() {
                 action={{
                   type: "internal",
                   route: "/sections/page-sections/page-headers",
-                  label: "Read specs",
                 }}
               />
             </RotatingCard>
@@ -84,24 +86,24 @@ function Information() {
               <Grid item xs={12} md={6}>
                 <DefaultInfoCard
                   icon="flip_to_front"
-                  title="Display Screen"
-                  description="High-resolution LCD or LED screen (typically 10–15 inches) for real-time waveform and numerical data display."
+                  title="API Cloud Services"
+                  description="Our API service is the key innovation of our company allowing hospital information systems (HIS) and EHRs to connect to smart devices that we provide."
                 />
               </Grid>
             </Grid>
             <Grid container spacing={3} sx={{ mt: { xs: 0, md: 6 } }}>
               <Grid item xs={12} md={6}>
                 <DefaultInfoCard
-                  icon="alarm"
-                  title="Alarm System"
-                  description="Built-in audio and visual alarms to alert caregivers when readings fall outside safe ranges."
+                  icon="devices"
+                  title="Connectivity"
+                  description="Support for Wi-Fi or Bluetooth for data export, networking and integration with hospital information systems (HIS), or remote monitoring."
                 />
               </Grid>
               <Grid item xs={12} md={6}>
                 <DefaultInfoCard
-                  icon="devices"
-                  title="Connectivity"
-                  description="Support for USB, Ethernet, and sometimes Wi-Fi or Bluetooth for data export, integration with hospital information systems (HIS), or remote monitoring."
+                  icon="store"
+                  title="Medicines"
+                  description="Marketing, trading, import/export of quality medicines, drugs, and medical consumables"
                 />
               </Grid>
             </Grid>
