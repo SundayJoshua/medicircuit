@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/medicircuit/static/js/main.8f260895.js",
+    "main.js": "/medicircuit/static/js/main.cfb6eb81.js",
     "static/media/bg-home.png": "/medicircuit/static/media/bg-home.afacfb45e0555c63dda4.png",
     "static/media/sales.jpg": "/medicircuit/static/media/sales.813c8da299315c8012b5.jpg",
     "static/media/rnd.png": "/medicircuit/static/media/rnd.18c1e4a4950a16e9305b.png",
@@ -19,9 +19,9 @@
     "static/media/about.jpg": "/medicircuit/static/media/about.2bb49abafd1b89dd83b0.jpg",
     "static/media/icon.png": "/medicircuit/static/media/icon.7d3755e5781523deaccd.png",
     "index.html": "/medicircuit/index.html",
-    "main.8f260895.js.map": "/medicircuit/static/js/main.8f260895.js.map"
+    "main.cfb6eb81.js.map": "/medicircuit/static/js/main.cfb6eb81.js.map"
   },
   "entrypoints": [
-    "static/js/main.8f260895.js"
+    "static/js/main.cfb6eb81.js"
   ]
 }
